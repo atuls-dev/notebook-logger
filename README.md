@@ -1,2 +1,2 @@
 # notebook-logger
-This Wordpress Plugin is used to allows users to enter logs (like a diary).
+This Wordpress plugin is used to allows users to enter logs (like a diary).
